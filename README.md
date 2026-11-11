@@ -1,5 +1,5 @@
 # NETWORKING-
-# 🌐 Networking Fundamentals & Labs
+# 🌐 Networking Fundamentals
 
 Welcome to my networking repository! This space is dedicated to documenting my journey, labs, and structured notes covering computer networking architectures, protocols, security frameworks, and systems administration.
 
